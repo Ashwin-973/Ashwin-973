@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hi, I'm Ashwin!
 
-<!--
-**Ashwin-973/Ashwin-973** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Views](https://komarev.com/ghpvc/?username=Ashwin-973)
+<!-- You can add your avatar here if you'd like -->
 
-Here are some ideas to get you started:
+## 👨‍🎓 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a passionate **student** who loves building things with code and sprinkling a bit of movie magic into every project! Whether it's a Node.js backend or a React front-end, you can bet I'll find a way to sneak in a pop culture reference. 🎬
+
+## 🔧 Tech Stack
+
+- **Languages:** JavaScript (ES6+), HTML, CSS
+- **Frameworks/Libraries:** Node.js, Express, React, Tailwind CSS
+- **Database:** PostgreSQL
+- **Tools:** Git & GitHub
+
+## 🚀 Featured Projects
+
+- **[Code-Sockets](#)** – Real-time collaborative coding platform with a dash of movie flair!
+- **[Memento Mail](#)** – Tired of putting up with a cluttered Inbox ? , Memento Mail let's you aggregate Newsletters with Custom Filters.
+- **[Event-Reservoir](#)** – Effortless event management, with references worthy of a blockbuster.
+
+## 🎬 Fun Fact
+
+I’m a self-proclaimed **Movie Maniac**—challenge me to add a film reference to any app, and I’ll ace it every time!
+
+## 🌐 Connect with Me
+
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-blue?logo=linkedin](https://www.linkedin.com/in/ashwin-s-360606325/))](#)
+[![Instagram]([https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white](https://www.instagram.com/_glenn_maxwell_32__/))](#)
+[![Twitter]([https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white](https://x.com/Glenn_maxi_32))](#)
+
+---
+
+> "Why so serious? Let's put a smile on that code!" 😄
+
