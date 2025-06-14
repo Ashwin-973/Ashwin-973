@@ -24,11 +24,11 @@ I'm a passionate **student** who loves building things with code and sprinkling 
 
 I’m a self-proclaimed **Movie Maniac**—challenge me to add a film reference to any app, and I’ll ace it every time!
 
-## 🌐 Connect with Me
+### 📱 Connect with me
 
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-blue?logo=linkedin](https://www.linkedin.com/in/ashwin-s-360606325/))](#)
-[![Instagram]([https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white](https://www.instagram.com/_glenn_maxwell_32__/))](#)
-[![Twitter]([https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white](https://x.com/Glenn_maxi_32))](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/ashwin-s-360606325)  
+[![Instagram](https://img.shields.io/badge/Instagram-pink?logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/_glenn_maxwell_32__/)  
+[![Twitter](https://img.shields.io/badge/Twitter-black?logo=x&logoColor=white&style=for-the-badge)](https://twitter.com/Glenn_maxi_32)
 
 ---
 
