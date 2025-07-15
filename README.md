@@ -17,7 +17,7 @@ I'm a passionate **student** who loves building things with code and sprinkling 
 ## 🚀 Featured Projects
 
 - **[[Code-Sockets](https://code-sockets-matrix.onrender.com/)](#)** – Real-time collaborative coding platform with a dash of movie flair!
-- **[Memento Mail](#)** – Tired of putting up with a cluttered Inbox ? , Memento Mail let's you aggregate Newsletters with Custom Filters.
+- **[Memento Mail](https://event-reservoir-dogs.onrender.com/)** – Tired of putting up with a cluttered Inbox ? , Memento Mail let's you aggregate Newsletters with Custom Filters.
 - **[Event-Reservoir](#)** – Effortless event management, with references worthy of a blockbuster.
 
 ## 🎬 Fun Fact
