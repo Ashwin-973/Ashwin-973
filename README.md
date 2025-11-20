@@ -31,6 +31,7 @@ I’m a self-proclaimed **Movie Maniac**—challenge me to add a film reference 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/ashwin-s-360606325)  
 [![Instagram](https://img.shields.io/badge/Instagram-pink?logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/_glenn_maxwell_32__/)  
 [![Twitter](https://img.shields.io/badge/Twitter-black?logo=x&logoColor=white&style=for-the-badge)](https://twitter.com/Glenn_maxi_32)
+[![Letterboxd](https://cdn-icons-png.flaticon.com/128/13650/13650927.png)](https://letterboxd.com/Leon_1994/films/)
 
 ---
 
