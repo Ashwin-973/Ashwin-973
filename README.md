@@ -20,7 +20,7 @@ I'm a passionate **student** who loves building things with code and sprinkling 
 - **[Memento Mail](https://github.com/Ashwin-973/newsletter-aggregator)** – Tired of putting up with a cluttered Inbox ? , Memento Mail let's you aggregate Newsletters with Custom Filters.
 - **[Event-Reservoir](https://event-reservoir-dogs.onrender.com/)** – Effortless event management, with references worthy of a blockbuster.
 - **[Agency Landing Page](https://sunnyside-agency-whiplash.vercel.app/)** – A Bright and Colorful fully responsive Landing page built with HTML,CSS and JS
-- **[DevSuite](https://github.com/Ashwin-973/DevSuite)** – Most useful and Prominent Dev tools as a REST API. IN Progress...
+- **[DevSuite](https://tarsnet.onrender.com/)** – Most useful and Prominent Dev tools as a REST API. IN Progress...
 
 ## 🎬 Fun Fact
 
