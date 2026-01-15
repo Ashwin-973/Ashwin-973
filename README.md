@@ -24,7 +24,7 @@ I'm a passionate **student** who loves building things with code and sprinkling 
 
 ## 🎬 Fun Fact
 
-I’m a self-proclaimed **Movie Maniac**—challenge me to add a film reference to any app, and I’ll ace it every time!
+I’m a self-proclaimed **Movie Maniac** ,challenge me to add a film reference to any app, and I’ll ace it every time!
 
 ### 📱 Connect with me
 
