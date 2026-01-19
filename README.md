@@ -22,6 +22,9 @@ I'm a passionate **student** who loves building things with code and sprinkling 
 - **[Agency Landing Page](https://sunnyside-agency-whiplash.vercel.app/)** – A Bright and Colorful fully responsive Landing page built with HTML,CSS and JS
 - **[DevSuite](https://tarsnet.onrender.com/)** – Most useful and Prominent Dev tools as a REST API. IN Progress...
 
+- **[Project Mayhem](https://project-mayhem-fc.vercel.app/)** Checkout my freelance portfolio
+
+
 ## 🎬 Fun Fact
 
 I’m a self-proclaimed **Movie Maniac** ,challenge me to add a film reference to any app, and I’ll ace it every time!
