@@ -23,6 +23,7 @@ I'm a passionate **student** who loves building things with code and sprinkling 
 - **[DevSuite](https://tarsnet.onrender.com/)** – Most useful and Prominent Dev tools as a REST API. IN Progress...
 
 - **[Project Mayhem](https://project-mayhem-fc.vercel.app/)** Checkout my freelance portfolio
+- **[cumi-RAG](https://github.com/Ashwin-973/cumi-RAG)** - Agentic RAG for https://cumiabrasive.in/
 
 
 ## 🎬 Fun Fact
