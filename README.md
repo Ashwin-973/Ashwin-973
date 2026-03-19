@@ -37,7 +37,7 @@ I’m a self-proclaimed **Movie Maniac** ,challenge me to add a film reference t
 [![Twitter](https://img.shields.io/badge/Twitter-black?logo=x&logoColor=white&style=for-the-badge)](https://twitter.com/Glenn_maxi_32)
 [![Letterboxd](https://img.shields.io/badge/Letterboxd-black?logo=Letterboxd&logoColor=white&style=for-the-badge)](https://letterboxd.com/Leon_1994/films/)
 
----
+--
 
 > "Why so serious? Let's put a smile on that code!" 😄
 
